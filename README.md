@@ -11,6 +11,5 @@ In the project directory, you can run:
 Runs the app in development mode.\
 Open [http://localhost:5050](http://localhost:5050) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Implemented using MongoDB Atlas and POSTMAN for API
 
