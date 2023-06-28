@@ -11,5 +11,5 @@ In the project directory, you can run:
 Runs the app in development mode.\
 Open [http://localhost:5050](http://localhost:5050) to view it in your browser.
 
-## Implemented using MongoDB Atlas and POSTMAN for API
+Implemented using MongoDB Atlas and POSTMAN for API
 
